@@ -14,7 +14,7 @@ bool_showNoSol = avoid to tell when show() function return no solution.
 
 Example of output with <code>show_all_sol(38, 42, 4, false);</code> :
 
-============  
+
 EQUATION: 38 * X(1) = X(1)  
 ============  
 EQUATION: 38 * X(1) = XX(2)  
