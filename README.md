@@ -15,31 +15,30 @@ bool_showNoSol = avoid to tell when show() function return no solution.
 Example of output with <code>show_all_sol(38, 42, 4, false);</code> :
 
 
-============
-
-EQUATION: 38 * X(1) = X(1)
-============
-EQUATION: 38 * X(1) = XX(2)
-38 * 2 = 76
-============
-EQUATION: 38 * X(1) = XXX(3)
-38 * 2 = 076
-38 * 4 = 152
-38 * 5 = 190
-============
-EQUATION: 38 * XX(2) = XX(2)
-38 * 02 = 76
-============
-EQUATION: 38 * XX(2) = XXX(3)
-38 * 04 = 152
-38 * 12 = 456
-============
-EQUATION: 38 * XX(2) = XXXX(4)
-38 * 12 = 0456
-38 * 42 = 1596
-38 * 52 = 1976
-38 * 65 = 2470
-============
+============  
+EQUATION: 38 * X(1) = X(1)  
+============  
+EQUATION: 38 * X(1) = XX(2)  
+38 * 2 = 76  
+============  
+EQUATION: 38 * X(1) = XXX(3)  
+38 * 2 = 076  
+38 * 4 = 152  
+38 * 5 = 190  
+============  
+EQUATION: 38 * XX(2) = XX(2)  
+38 * 02 = 76  
+============  
+EQUATION: 38 * XX(2) = XXX(3)  
+38 * 04 = 152  
+38 * 12 = 456  
+============  
+EQUATION: 38 * XX(2) = XXXX(4)  
+38 * 12 = 0456  
+38 * 42 = 1596  
+38 * 52 = 1976  
+38 * 65 = 2470  
+============  
 EQUATION: 38 * XXX(3) = XXX(3)
 38 * 012 = 456
 ============
@@ -156,6 +155,5 @@ EQUATION: 42 * XXX(3) = XXXX(4)
 EQUATION: 42 * XXX(3) = XXXXX(5)
 42 * 138 = 05796
 ============
-
 EQUATION: 42 * XXXX(4) = XXXX(4)
 42 * 0138 = 5796
