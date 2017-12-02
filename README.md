@@ -16,6 +16,7 @@ Example of output with <code>show_all_sol(38, 42, 4, false);</code> :
 
 
 ============
+
 EQUATION: 38 * X(1) = X(1)
 ============
 EQUATION: 38 * X(1) = XX(2)
@@ -155,5 +156,6 @@ EQUATION: 42 * XXX(3) = XXXX(4)
 EQUATION: 42 * XXX(3) = XXXXX(5)
 42 * 138 = 05796
 ============
+
 EQUATION: 42 * XXXX(4) = XXXX(4)
 42 * 0138 = 5796
