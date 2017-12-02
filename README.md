@@ -12,9 +12,9 @@ int p_maxA = max value of A we want to test
 int p_limB = max value of LENGTH of B we want to test
 bool_showNoSol = avoid to tell when show() function return no solution.
 
-Example of output with <code>show_all_sol(38, 42, 4, false);</code>:
+Example of output with <code>show_all_sol(38, 42, 4, false);</code> :
 
-<code>
+
 ============
 EQUATION: 38 * X(1) = X(1)
 ============
@@ -157,4 +157,3 @@ EQUATION: 42 * XXX(3) = XXXXX(5)
 ============
 EQUATION: 42 * XXXX(4) = XXXX(4)
 42 * 0138 = 5796
-</code>
